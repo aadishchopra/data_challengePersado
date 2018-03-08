@@ -5,7 +5,7 @@ output:
   html_notebook: default
   word_document: default
 ---
- ![alt text](data_challengePersado/small_logo.png) 
+ ![alt text](small_logo.png) 
 
 #### This notebook serves as a document to the data science challenge. Commenting and documentation has been done wherever necessary. 
 
