@@ -1,9 +1,5 @@
 ---
 title: "Data_Science_Assessment for Persado"
-output:
-  html_document: default
-  html_notebook: default
-  word_document: default
 ---
  ![alt text](small_logo.png) 
 
